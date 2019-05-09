@@ -1,2 +1,12 @@
 *.class
 *.log
+
+# added by weixi
+# 数据文件
+*.csv
+
+# IntelliJ IDEA 导入工程后，需屏蔽的目录
+.idea/
+target/
+project/project/
+project/target/
