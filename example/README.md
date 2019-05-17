@@ -1,6 +1,6 @@
-练习编程作业：Example
+编程作业0：Example
 ===================
-- [练习编程作业：Example](https://www.coursera.org/learn/scala-spark-big-data/programming/I6L8m/example)
+- [编程作业0：Example](https://www.coursera.org/learn/scala-spark-big-data/programming/I6L8m/example)
 
 # 入门
 

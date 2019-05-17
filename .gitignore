@@ -4,6 +4,10 @@
 # added by weixi
 # 数据文件
 *.csv
+*.dat
+
+# Mac
+.DS_Store
 
 # IntelliJ IDEA 导入工程后，需屏蔽的目录
 .idea/
