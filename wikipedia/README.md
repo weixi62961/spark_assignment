@@ -3,7 +3,7 @@
 - [编程作业1：Wikipedia](https://www.coursera.org/learn/scala-spark-big-data/programming/CfQX2/wikipedia)
 
 # Wikipedia
-首先，请先下载作业：[wikipedia.zip](http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.zip)，并解压缩。还需要下载[数据（133 MB）](http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.dat), 并放置 src / main / resources / wikipedia目录下。
+首先，请先下载作业：[wikipedia.zip](http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.zip)，并解压缩。还需要下载[数据（133 MB）](http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.dat), 并放置 src/main/resources/wikipedia目录下。
 
 在本作业中，您将使用 Spark 来探索全文维基百科文章。
 
