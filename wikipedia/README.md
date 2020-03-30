@@ -32,8 +32,8 @@
 #### 计算 occurrencesOfLang
 通过实现一个辅助方法 occurrencesOfLang 开始， 这个方法计算 RDD[WikipediaArticles] 中至少提及一次该语言的维基百科文章的数量。为简单起见，我们检查文章文本中至少有一个单词（用空格分隔）等于给定的语言。
 
-#### 计算 anking, rankLangs
-使用occurrencesOfLang，实现一个方法 rankLangs ，它返回一个 pair 列表，pair 第一部分是语言名称，第二部分是提及该语言的文章数量。rankLangs 一个可能的返回值示例如下：
+#### 计算 ranking, rankLangs
+使用occurrencesOfLang，实现一个方法 rankLangs ，它返回一个 pair 列表，pair的 第一部分是语言名称，第二部分是提及该语言的文章数量。rankLangs 一个可能的返回值示例如下：
 
 ```scala
 List(("Scala", 999999), ("JavaScript", 1278), ("LOLCODE", 982), ("Java", 42))
